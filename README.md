@@ -1,1 +1,1 @@
-# Disable-THP-Debian-Splunk
+# Disable THP Debian Splunk
