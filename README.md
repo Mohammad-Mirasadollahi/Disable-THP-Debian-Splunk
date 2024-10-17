@@ -1,1 +1,1 @@
-# Disable THP Debian Splunk
+# Systemd service to disable THP permanently on Debian
